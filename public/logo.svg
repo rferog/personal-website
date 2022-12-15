@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Courier Prime">@import url(https://fonts.googleapis.com/css2?family=Courier+Prime%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&amp;display=swap);</style>
+  </defs>
+  <rect x="25" y="25" width="450" height="450" style="stroke: rgb(0, 0, 0); fill: rgb(51, 51, 51);"/>
+  <rect x="65" y="65" width="370" height="370" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);"/>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Courier Prime&quot;; font-size: 418.3px; white-space: pre;" x="124.589" y="395.939">R</text>
+</svg>
