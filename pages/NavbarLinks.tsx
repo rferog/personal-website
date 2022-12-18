@@ -41,7 +41,7 @@ const NavbarLinks: React.FC<INavbarLinks> = ({
           </li>
           <li>
             <a
-              href="#github"
+              href="https://github.com/rferog"
               id="ghLink"
               target="_blank"
               rel='noreferrer'

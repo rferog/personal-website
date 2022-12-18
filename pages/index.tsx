@@ -153,7 +153,7 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <div className={styles.projects}>
+          <div id="projects" className={styles.projects}>
             <h1 className={styles.sectionTitle}>{"Projects"}</h1>
             <p className={styles.projectsIntro}>{PROJECTS}</p>
             <div className={styles.projectsCardContainer}>
