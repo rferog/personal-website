@@ -161,13 +161,17 @@ export default function Home() {
                 className={styles.projectsCard}
                 bg={darkMode ? "dark" : "light"} border="dark"
               >
-                <Card.Title>{"Reddit-like Forum"}</Card.Title>
+                <Card.Title>{"Forum"}</Card.Title>
                 <Card.Body>
                   <p>{PROJECT_1}</p>
                   <p>
                     <strong>{"Tech Stack:"}</strong> {STACK_1}</p>
-                  <Card.Link href="#">{"Visit the site"}</Card.Link>
-                  <Card.Link href="#">{"Github repository"}</Card.Link>
+                  <Card.Link href="https://forum.rferog.com/">
+                    {"Visit the website"}
+                  </Card.Link>
+                  <Card.Link href="https://github.com/rferog/forum-frontend">
+                    {"Github repository"}
+                  </Card.Link>
                 </Card.Body>
               </Card>
               <Card
@@ -179,8 +183,12 @@ export default function Home() {
                 <Card.Body>
                   <p>{PROJECT_2}</p>
                   <p><strong>{"Tech Stack:"}</strong> {STACK_2}</p>
-                  <Card.Link href="#">{"Visit the site"}</Card.Link>
-                  <Card.Link href="#">{"Github repository"}</Card.Link>
+                  <Card.Link href="https://notes.rferog.com/">
+                    {"Visit the website"}
+                  </Card.Link>
+                  <Card.Link href="https://github.com/rferog/note-keeper">
+                    {"Github repository"}
+                  </Card.Link>
                 </Card.Body>
               </Card>
             </div>

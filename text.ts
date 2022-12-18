@@ -85,7 +85,7 @@ Typescript, React, Python, GraphQL, Django, AWS
 `;
 
 const STACK_2 = `
-Typescript, Angular, Firebase, AWS
+Typescript, Angular, Firebase
 `;
 
 export {
