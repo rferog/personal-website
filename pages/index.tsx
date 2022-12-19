@@ -25,7 +25,7 @@ import {
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Home() {
-  const currentYear  = new Date().getFullYear();
+  const currentYear = new Date().getFullYear();
 
   const [showOffcanvas, setShowOffcanvas] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
@@ -166,10 +166,18 @@ export default function Home() {
                   <p>{PROJECT_1}</p>
                   <p>
                     <strong>{"Tech Stack:"}</strong> {STACK_1}</p>
-                  <Card.Link href="https://forum.rferog.com/">
+                  <Card.Link
+                    href="https://forum.rferog.com/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {"Visit the website"}
                   </Card.Link>
-                  <Card.Link href="https://github.com/rferog/forum-frontend">
+                  <Card.Link
+                    href="https://github.com/rferog/forum-frontend"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {"Github repository"}
                   </Card.Link>
                 </Card.Body>
@@ -183,10 +191,18 @@ export default function Home() {
                 <Card.Body>
                   <p>{PROJECT_2}</p>
                   <p><strong>{"Tech Stack:"}</strong> {STACK_2}</p>
-                  <Card.Link href="https://notes.rferog.com/">
+                  <Card.Link
+                    href="https://notes.rferog.com/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {"Visit the website"}
                   </Card.Link>
-                  <Card.Link href="https://github.com/rferog/note-keeper">
+                  <Card.Link
+                    href="https://github.com/rferog/note-keeper"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {"Github repository"}
                   </Card.Link>
                 </Card.Body>
