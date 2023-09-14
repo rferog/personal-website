@@ -227,19 +227,6 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-            <div className={styles.experienceItem}>
-              <div className={styles.experienceYear}>
-                {"Spring 2019 - Fall 2019"}
-              </div>
-              <div className={styles.experienceContent}>
-                <strong>{"Cybersecurity Analyst - Fluid Attacks"}</strong>
-                <ul>
-                  <li>{EXPERIENCE_C1}</li>
-                  <li>{EXPERIENCE_C2}</li>
-                  <li>{EXPERIENCE_C3}</li>
-                </ul>
-              </div>
-            </div>
             <div className={styles.experienceItemLast}>
               <div className={styles.experienceYear}>
                 {"Spring 2019"}
