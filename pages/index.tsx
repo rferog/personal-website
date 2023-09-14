@@ -224,6 +224,8 @@ export default function Home() {
                   <li>{EXPERIENCE_F2}</li>
                   <li>{EXPERIENCE_F3}</li>
                   <li>{EXPERIENCE_F4}</li>
+                  <li>{EXPERIENCE_F5}</li>
+                  <li>{EXPERIENCE_F6}</li>
                 </ul>
               </div>
             </div>
