@@ -1,5 +1,5 @@
 const ABOUT_ME = `
-I am a Full Stack Developer with over 3 years of experience
+I am a Full Stack Developer with over 4 years of experience
 designing, developing and optimizing interactive, user-friendly
 and feature-rich  web applications.
 I started my career as a Cybersecurity Analyst,
@@ -23,40 +23,38 @@ Rafael Rodriguez. All rights reserved.
 `
 
 const EXPERIENCE_F1 = `
-Designed, developed and maintained complex features for several applications
-using Typescript, React, Python, GraphQL, among other technologies.
+Developed and maintained complex features for several full stack web
+applications using Typescript, React, Python, GraphQL,
+among other technologies.
 `;
 
 const EXPERIENCE_F2 = `
-Developed efficient and scalable software based on defined business
-objectives and user needs.
+Audited code and tested different builds to identify
+and resolve bugs with complete accuracy,
+greatly improving stability and customer satisfaction.
 `;
 
 const EXPERIENCE_F3 = `
-Reviewed code and tested different builds to identify and resolve bugs,
-considerably improving stability and customer satisfaction.
+Monitored and maintained complex technology infrastructure and CI/CD
+pipelines that allowed efficient testing and applications to be deployed to
+production over 50 times a day.
 `;
 
 const EXPERIENCE_F4 = `
-Monitored and maintained complex technology infrastructure and CI/CD
-pipelines that allowed efficient testing and applications to be deployed to
-production over 40 times a day.
+Communicated effectively with fellow full stack developers,
+DevOps engineers, QA engineers and CTO to achieve objectives
+based on industry standards and user feedback.
 `;
 
-const EXPERIENCE_C1 = `
+const EXPERIENCE_F5 = `
+Participated in the development of AI software designed
+to be integrated with the main web application
+in order to assist the users’ needs.
+`;
+
+const EXPERIENCE_F6 = `
 Conducted penetration testing for many applications and reported critical
 vulnerabilities before they could be exploited.
-`;
-
-const EXPERIENCE_C2 = `
-Performed effective code audits on projects
-that used a wide variety of languages and technologies.
-`;
-
-const EXPERIENCE_C3 = `
-Greatly improved the security of customers by documenting and reporting the
-exploited vulnerabilities of their applications
-in order to resolve them before they were found by malicious users.
 `;
 
 const EXPERIENCE_U = `
