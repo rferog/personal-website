@@ -41,17 +41,6 @@ const NavbarLinks: React.FC<INavbarLinks> = ({
           </li>
           <li>
             <a
-              href="https://github.com/rferog"
-              id="ghLink"
-              target="_blank"
-              rel='noreferrer'
-              onClick={handleClose}
-            >
-              {"GITHUB"}
-            </a>
-          </li>
-          <li>
-            <a
               href="https://www.linkedin.com/in/rafael-rodriguez-a2a2a7123/"
               id="linkedinLink"
               target="_blank"

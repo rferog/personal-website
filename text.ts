@@ -1,18 +1,15 @@
 const ABOUT_ME = `
-I am a Full Stack Developer with over 4 years of experience
-designing, developing and optimizing interactive, user-friendly
-and feature-rich  web applications.
-I started my career as a Cybersecurity Analyst,
-performing penetration tests and code audits
-on a wide variety of web applications.
-After a short while, I decided to take the leap to pursue a career
-as a Full Stack Developer and started participating in projects
-where I have been trained to have both technical and soft skills,
-focusing specially on Python and Typescript
-but always keeping in mind that one must be ready
-to learn any language or framework,
-making use of innovation, ingenuity and creativity
-to create the best applications with the resources available.
+I am a highly skilled and innovative Full Stack Developer
+with over 4 years of hands-on experience designing, developing
+and optimizing interactive, user-friendly and feature-rich
+web applications. I am a focused and efficient learner
+with not only experience on the backend and frontend but also
+practical expertise across the entire development stack including
+testing, analytics, architecture and cybersecurity.
+I am able to effectively self-manage during independent projects,
+as well as collaborate appropriately in a team setting in order
+to efficiently implement new features for an existing product based
+on user feedback or build new innovative projects from start to finish.
 When I'm not coding, I'm either watching series,
 playing video games or working out.
 Other times I am reading or learning a new language or framework.
@@ -23,9 +20,8 @@ Rafael Rodriguez. All rights reserved.
 `
 
 const EXPERIENCE_F1 = `
-Developed and maintained complex features for several full stack web
-applications using Typescript, React, Python, GraphQL,
-among other technologies.
+Developed and maintained several full stack web applications
+using Typescript, React, Python, GraphQL, among other technologies.
 `;
 
 const EXPERIENCE_F2 = `
@@ -41,13 +37,13 @@ production over 50 times a day.
 `;
 
 const EXPERIENCE_F4 = `
-Communicated effectively with fellow full stack developers,
-DevOps engineers, QA engineers and CTO to achieve objectives
+Communicated effectively with fellow developers,
+DevOps engineers, QA analysts and CTO to achieve objectives
 based on industry standards and user feedback.
 `;
 
 const EXPERIENCE_F5 = `
-Participated in the development of AI software designed
+Led the development of AI software designed
 to be integrated with the main web application
 in order to assist the users’ needs.
 `;
@@ -64,18 +60,21 @@ famous in Colombia for its outstanding engineers.
 `;
 
 const PROJECTS = `
-Here are some personal projects I have created in my free time.
+Here are some small personal projects I created in my free time
+to be more aware of all the steps necessary to create and deploy
+to production an application from scratch using
+different methods and technologies.
 `;
 
 const PROJECT_1 = `
-A site for discussing various topics, based on Reddit.
+A site for discussing various topics, design based on Reddit.
 Users can register, create topics and then posts where
 they can comment in a reddit-like interface.
 `;
 
 const PROJECT_2 = `
 A simple note keeper in which anyone can participate,
-loosely based on Google's note keeper.
+loosely based on an early version of Google's note keeper.
 `;
 
 const STACK_1 = `

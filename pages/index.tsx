@@ -214,7 +214,7 @@ export default function Home() {
             </h1>
             <div className={styles.experienceItem}>
               <div className={styles.experienceYear}>
-                {"Fall 2019 - Present"}
+                {"Summer 2019 - Present"}
               </div>
               <div className={styles.experienceContent}>
                 <strong>{"Full Stack Developer - Fluid Attacks"}</strong>
